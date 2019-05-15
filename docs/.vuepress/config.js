@@ -63,7 +63,8 @@ function getSidebarConfig () {
           'vue学习watch的高级用法',
           '渲染函数',
           'vue生命周期',
-          'vue-router'
+          'vue-router',
+          'vue提高大型数据列表的性能'
         ]
       },
       {
