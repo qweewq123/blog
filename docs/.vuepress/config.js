@@ -99,6 +99,13 @@ function getSidebarConfig () {
         children: [
           '跳板机'
         ]
+      },
+      {
+        title: '小程序相关',
+        collapsable: false,
+        children: [
+          '百度小程序优化'
+        ]
       }
     ]
   }
